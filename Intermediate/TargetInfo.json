@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LAB_10_Composite",
+			"Path": "..\\Source\\LAB_10_Composite.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LAB_10_CompositeEditor",
+			"Path": "..\\Source\\LAB_10_CompositeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
